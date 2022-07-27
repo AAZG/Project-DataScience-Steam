@@ -36,5 +36,10 @@ To fix my dataset data, use lambdas, ReGex, deal with NaN, change my variables t
 The project was carried out individually, thanks to me for not giving up.
 
 
+## Puedes utilizar Deepnote para visualizar el proyecto y trabajar interactivamente con los notebooks siguiendo el enlace de este botón:
+
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/@aazg/Proyecto-DataScience-Steam-8a13d638-38aa-4308-b29a-b030e00ced39)
+
+
 ## License.
 This project is OpenSource, feel free to copy and improve it as much as you want.
